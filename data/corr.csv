@@ -1,0 +1,183 @@
+c1,c2,corr
+H2OC (mmol/mol),sh (g/kg),0.9999973
+sh (g/kg),H2OC (mmol/mol),0.9999973
+H2OC (mmol/mol),VPact (mbar),0.9998557
+VPact (mbar),H2OC (mmol/mol),0.9998557
+sh (g/kg),VPact (mbar),0.9998511
+VPact (mbar),sh (g/kg),0.9998511
+Tpot (K),T (degC),0.9968266
+T (degC),Tpot (K),0.9968266
+VPact (mbar),Tdew (degC),0.96834385
+Tdew (degC),VPact (mbar),0.96834385
+H2OC (mmol/mol),Tdew (degC),0.96804434
+Tdew (degC),H2OC (mmol/mol),0.96804434
+sh (g/kg),Tdew (degC),0.9675987
+Tdew (degC),sh (g/kg),0.9675987
+max. wv (m/s),wv (m/s),0.95734274
+wv (m/s),max. wv (m/s),0.95734274
+VPmax (mbar),T (degC),0.9511125
+T (degC),VPmax (mbar),0.9511125
+VPmax (mbar),Tpot (K),0.947293
+Tpot (K),VPmax (mbar),0.947293
+Tdew (degC),T (degC),0.8957081
+T (degC),Tdew (degC),0.8957081
+Tdew (degC),Tpot (K),0.8949112
+Tpot (K),Tdew (degC),0.8949112
+VPdef (mbar),VPmax (mbar),0.87558764
+VPmax (mbar),VPdef (mbar),0.87558764
+VPact (mbar),T (degC),0.8676732
+T (degC),VPact (mbar),0.8676732
+H2OC (mmol/mol),T (degC),0.8671767
+T (degC),H2OC (mmol/mol),0.8671767
+H2OC (mmol/mol),Tpot (K),0.8669549
+Tpot (K),H2OC (mmol/mol),0.8669549
+sh (g/kg),T (degC),0.8667549
+T (degC),sh (g/kg),0.8667549
+sh (g/kg),Tpot (K),0.86653346
+Tpot (K),sh (g/kg),0.86653346
+VPact (mbar),Tpot (K),0.86620533
+Tpot (K),VPact (mbar),0.86620533
+VPact (mbar),VPmax (mbar),0.82486486
+VPmax (mbar),VPact (mbar),0.82486486
+H2OC (mmol/mol),VPmax (mbar),0.82449275
+VPmax (mbar),H2OC (mmol/mol),0.82449275
+sh (g/kg),VPmax (mbar),0.82445985
+VPmax (mbar),sh (g/kg),0.82445985
+VPmax (mbar),Tdew (degC),0.7992706
+Tdew (degC),VPmax (mbar),0.7992706
+VPdef (mbar),T (degC),0.76174426
+T (degC),VPdef (mbar),0.76174426
+VPdef (mbar),Tpot (K),0.75696236
+Tpot (K),VPdef (mbar),0.75696236
+rho (g/m**3),rh (%),0.5142818
+rh (%),rho (g/m**3),0.5142818
+VPdef (mbar),VPact (mbar),0.44915414
+VPact (mbar),VPdef (mbar),0.44915414
+H2OC (mmol/mol),VPdef (mbar),0.44868907
+VPdef (mbar),H2OC (mmol/mol),0.44868907
+sh (g/kg),VPdef (mbar),0.448641
+VPdef (mbar),sh (g/kg),0.448641
+VPdef (mbar),Tdew (degC),0.43575153
+Tdew (degC),VPdef (mbar),0.43575153
+rho (g/m**3),p (mbar),0.30764034
+p (mbar),rho (g/m**3),0.30764034
+max. wv (m/s),VPdef (mbar),0.2475441
+VPdef (mbar),max. wv (m/s),0.2475441
+wv (m/s),VPdef (mbar),0.20503366
+VPdef (mbar),wv (m/s),0.20503366
+max. wv (m/s),Tpot (K),0.14075212
+Tpot (K),max. wv (m/s),0.14075212
+max. wv (m/s),VPmax (mbar),0.12645133
+VPmax (mbar),max. wv (m/s),0.12645133
+max. wv (m/s),T (degC),0.12514406
+T (degC),max. wv (m/s),0.12514406
+wv (m/s),Tpot (K),0.10468835
+Tpot (K),wv (m/s),0.10468835
+wv (m/s),VPmax (mbar),0.092519425
+VPmax (mbar),wv (m/s),0.092519425
+wv (m/s),T (degC),0.08843464
+T (degC),wv (m/s),0.08843464
+wd (deg),Tdew (degC),0.049877413
+Tdew (degC),wd (deg),0.049877413
+wd (deg),Tpot (K),0.043598942
+Tpot (K),wd (deg),0.043598942
+wd (deg),T (degC),0.03873202
+T (degC),wd (deg),0.03873202
+wd (deg),H2OC (mmol/mol),0.019606883
+H2OC (mmol/mol),wd (deg),0.019606883
+wd (deg),sh (g/kg),0.019376084
+sh (g/kg),wd (deg),0.019376084
+wd (deg),VPact (mbar),0.018418286
+VPact (mbar),wd (deg),0.018418286
+wd (deg),max. wv (m/s),-0.003175783
+max. wv (m/s),wd (deg),-0.003175783
+VPdef (mbar),p (mbar),-0.0034011928
+p (mbar),VPdef (mbar),-0.0034011928
+wd (deg),VPmax (mbar),-0.009583443
+VPmax (mbar),wd (deg),-0.009583443
+wd (deg),rh (%),-0.015912237
+rh (%),wd (deg),-0.015912237
+rh (%),p (mbar),-0.018351944
+p (mbar),rh (%),-0.018351944
+wd (deg),VPdef (mbar),-0.030881057
+VPdef (mbar),wd (deg),-0.030881057
+VPmax (mbar),p (mbar),-0.031545643
+p (mbar),VPmax (mbar),-0.031545643
+max. wv (m/s),Tdew (degC),-0.036138106
+Tdew (degC),max. wv (m/s),-0.036138106
+T (degC),p (mbar),-0.0453749
+p (mbar),T (degC),-0.0453749
+max. wv (m/s),H2OC (mmol/mol),-0.052370705
+H2OC (mmol/mol),max. wv (m/s),-0.052370705
+max. wv (m/s),sh (g/kg),-0.052480154
+sh (g/kg),max. wv (m/s),-0.052480154
+wv (m/s),Tdew (degC),-0.05362426
+Tdew (degC),wv (m/s),-0.05362426
+VPact (mbar),p (mbar),-0.054369908
+p (mbar),VPact (mbar),-0.054369908
+max. wv (m/s),VPact (mbar),-0.055826835
+VPact (mbar),max. wv (m/s),-0.055826835
+wd (deg),wv (m/s),-0.0576687
+wv (m/s),wd (deg),-0.0576687
+wd (deg),rho (g/m**3),-0.058072355
+rho (g/m**3),wd (deg),-0.058072355
+wd (deg),p (mbar),-0.06325819
+p (mbar),wd (deg),-0.06325819
+wv (m/s),H2OC (mmol/mol),-0.0652551
+H2OC (mmol/mol),wv (m/s),-0.0652551
+wv (m/s),sh (g/kg),-0.06533157
+sh (g/kg),wv (m/s),-0.06533157
+Tdew (degC),p (mbar),-0.06675463
+p (mbar),Tdew (degC),-0.06675463
+wv (m/s),VPact (mbar),-0.068835124
+VPact (mbar),wv (m/s),-0.068835124
+sh (g/kg),p (mbar),-0.06976183
+p (mbar),sh (g/kg),-0.06976183
+H2OC (mmol/mol),p (mbar),-0.06980369
+p (mbar),H2OC (mmol/mol),-0.06980369
+Tpot (K),p (mbar),-0.124718264
+p (mbar),Tpot (K),-0.124718264
+wv (m/s),rho (g/m**3),-0.13095254
+rho (g/m**3),wv (m/s),-0.13095254
+sh (g/kg),rh (%),-0.15084094
+rh (%),sh (g/kg),-0.15084094
+H2OC (mmol/mol),rh (%),-0.15096925
+rh (%),H2OC (mmol/mol),-0.15096925
+VPact (mbar),rh (%),-0.15149377
+rh (%),VPact (mbar),-0.15149377
+rh (%),Tdew (degC),-0.15661533
+Tdew (degC),rh (%),-0.15661533
+max. wv (m/s),rho (g/m**3),-0.16392638
+rho (g/m**3),max. wv (m/s),-0.16392638
+max. wv (m/s),p (mbar),-0.20480096
+p (mbar),max. wv (m/s),-0.20480096
+wv (m/s),p (mbar),-0.20961486
+p (mbar),wv (m/s),-0.20961486
+wv (m/s),rh (%),-0.31224763
+rh (%),wv (m/s),-0.31224763
+max. wv (m/s),rh (%),-0.3629654
+rh (%),max. wv (m/s),-0.3629654
+rh (%),Tpot (K),-0.5671265
+Tpot (K),rh (%),-0.5671265
+rh (%),T (degC),-0.57241565
+T (degC),rh (%),-0.57241565
+VPmax (mbar),rh (%),-0.6158422
+rh (%),VPmax (mbar),-0.6158422
+rho (g/m**3),VPdef (mbar),-0.69829017
+VPdef (mbar),rho (g/m**3),-0.69829017
+VPdef (mbar),rh (%),-0.84383476
+rh (%),VPdef (mbar),-0.84383476
+rho (g/m**3),VPact (mbar),-0.8502407
+VPact (mbar),rho (g/m**3),-0.8502407
+rho (g/m**3),sh (g/kg),-0.8533248
+sh (g/kg),rho (g/m**3),-0.8533248
+rho (g/m**3),H2OC (mmol/mol),-0.8537691
+H2OC (mmol/mol),rho (g/m**3),-0.8537691
+rho (g/m**3),Tdew (degC),-0.88523185
+Tdew (degC),rho (g/m**3),-0.88523185
+rho (g/m**3),VPmax (mbar),-0.90153646
+VPmax (mbar),rho (g/m**3),-0.90153646
+rho (g/m**3),T (degC),-0.9634096
+T (degC),rho (g/m**3),-0.9634096
+rho (g/m**3),Tpot (K),-0.9813449
+Tpot (K),rho (g/m**3),-0.9813449
